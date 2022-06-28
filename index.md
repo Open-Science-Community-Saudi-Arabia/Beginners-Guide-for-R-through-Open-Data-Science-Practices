@@ -1,10 +1,11 @@
 ---
 layout: lesson
-#title: "Introduction to Open Data Science with R"
+#title: "Beginners Guide for R through Open Data Science Practices"
 authors: Marc Galland, Tijs Bliek, Zsofia Koma from materials taken from "The Ocean Health Index Team"
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
+
 # Welcome 
 
 The workshop is organised by [the Open Science Community Saudi Arabia](https://osc-ksa.com/ar-index.html). It’ll be delivered by instructors and facilitators from and Saudi Society for Bioinformatics and Computational Biology (SSBCB), ArabR and  Carpentries in MENA 
