@@ -5,7 +5,6 @@ authors: Marc Galland, Tijs Bliek, Zsofia Koma from materials taken from "The Oc
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-# Welcome 
 
 The workshop is organised by [the Open Science Community Saudi Arabia](https://osc-ksa.com/ar-index.html). It’ll be delivered by instructors and facilitators from and Saudi Society for Bioinformatics and Computational Biology (SSBCB), ArabR and  Carpentries in MENA 
 
